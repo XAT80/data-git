@@ -7,3 +7,5 @@ def my_name_is():
 def my_buddy_is():
     """Returns my buddy's GitHub nickname."""
     return "BuddyName"
+
+#second
